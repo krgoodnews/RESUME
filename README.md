@@ -61,7 +61,7 @@ Sungil High School 		| 일반계      | 2006.03 ~ 2009.02 | 졸업 |
 
 ### [엑씽크(xSync)](https://www.xsync.co/)
 
-<img src="/Users/gns/RESUME/Images/IconXSync.png" width="100">
+<img src="https://github.com/krgoodnews/RESUME/blob/master/Images/IconXSync.png" width="100">
 
 * xSync Event
   - 소개  
