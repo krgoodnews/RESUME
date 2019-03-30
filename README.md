@@ -18,7 +18,7 @@ Swift 언어를 이용한 iOS 어플리케이션을 개발합니다. iOS에 대�
 
 ### Contribute
 
-[marcosgriselli/SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - **New feature**: Enable Cycling
+[marcosgriselli/SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) (⭑500↑) - **New feature**: Enable Cycling
 
 ------
 
