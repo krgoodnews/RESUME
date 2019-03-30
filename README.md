@@ -1,8 +1,26 @@
 # 국윤수 <small>(Yunsu Guk)</small>
 
+### Github
+
+> [github.com/krgoodnews](https://github.com/krgoodnews)
+
+### Website
+
+> [yunsu.dev](https://yunsu.dev)
+
+### Blog
+
+> [Notion Blog](https://www.notion.so/goodnews/blog-yunsu-dev-6974b900ce66414d92911d43729b079b)
+
 ## iOS Developer
 
-Swift 언어를 이용한 iOS 어플리케이션을 개발한다. iOS에 대한 높은 이해도를 가지며 제공하고자 하는 서비스를 최대한 이해하고 사용자의 입장에서 생각해 깔끔하게 작동하는 서비스를 제공한다. 코드베이스 UI/UX 개발에 능숙하다.
+Swift 언어를 이용한 iOS 어플리케이션을 개발합니다. iOS에 대한 높은 이해도를 가지며 제공하고자 하는 서비스를 최대한 이해하고 사용자의 입장에서 생각해 깔끔하게 작동하는 서비스를 제공합니다. 코드베이스 UI/UX 개발에 능숙합니다. 오픈소스 라이브러리에 관심이 많습니다.
+
+### Contribute
+
+[marcosgriselli/SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - **New feature**: Enable Cycling
+
+------
 
 정보사항 | -
 --- | ---
