@@ -10,6 +10,7 @@
 - [Notion Blog](https://www.notion.so/goodnews/blog-yunsu-dev-6974b900ce66414d92911d43729b079b)
 
 **Email**: krgoodnews@gmail.com
+
 **Phone**: +82 10-5528-2253
 
 ---
@@ -33,6 +34,7 @@ Swift를 이용합니다. 제공하고자 하는 서비스를 최대한 이해�
 ## Career
 
 **2018.10 -** [Wadiz](https://www.wadiz.kr/) - iOS App Engineer
+
 **2016.11 - 2018.01** [xSync](https://www.xsync.co/) - iOS App Engineer
 
 - SnapKit, Then
@@ -54,6 +56,7 @@ Swift를 이용합니다. 제공하고자 하는 서비스를 최대한 이해�
 ## Education
 
 **2009.03 - 2016.02** [KwangWoon Univ.](https://www.kw.ac.kr) - Electric Engineearing (Graduated)
+
 **2006.03 - 2009.02** [Sungil High School](http://www.sungil.hs.kr/) (Graduated)
 
 ---
@@ -77,7 +80,7 @@ Swift를 이용합니다. 제공하고자 하는 서비스를 최대한 이해�
 - 채팅과 게임이 결합된 형태의 어플리케이션
 - 역할: iOS & Backend
 - 기술
-	* iOS(Swift): , RxSwift, SnapKit, Then
+	* iOS(Swift): RxSwift, SnapKit, Then
 	* Backend: Firebase
 
 ### OOT
@@ -95,8 +98,11 @@ Swift를 이용합니다. 제공하고자 하는 서비스를 최대한 이해�
 
 
 ### Hackathon
+
 **Amathon** | 2018.07 | 채팅퀴즈: 실시간 채팅 자음퀴즈 | 특별상
+
 **Unithon 5th** | 2017.07 | 비비드: 저시력자를 위한 음성 서비스
+
 **Unithon 3rd** | 2016.07 | 하드캐리: PC방 좌석 확인 및 예약 서비스 | 특별상 및 인기상
 
 <br>
