@@ -33,7 +33,7 @@
 
 #### Contribute
 
-- [marcosgriselli/SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) (⭑500↑) - **New feature**: Enable Cycling
+- [marcosgriselli/SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) (⭑600↑) - **New feature**: Enable Cycling
 
 ---
 
