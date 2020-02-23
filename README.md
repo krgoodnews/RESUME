@@ -74,7 +74,7 @@
 - https://github.com/krgoodnews/InstagramUploader
 
 ### 마이파이
-- 연결된 네트워크 이름을 스테이터스바에 노출해주는 Mac OS 앱
+- 연결된 네트워크 이름을 스테이터스바에 노출해주는 **Mac OS** 앱
 - https://github.com/krgoodnews/NetworkChecker
 
 ### Appstore Clone
@@ -124,6 +124,8 @@
 ### Conference
 
 [ICASSP 2016](https://www2.securecms.com/ICASSP2016/ST-3.asp) | IVCHI: Interactive Virtual Concert Hall Interface
+
+<br>
 
 ## Self Introduction
 
