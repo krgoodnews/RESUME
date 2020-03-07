@@ -5,16 +5,19 @@
 - krgoodnews@gmail.com
 - 010-5528-2253
 - https://yunsu.dev
-- [https://github.com/krgoodnews](https://github.com/krgoodnews)
+- https://github.com/krgoodnews
 
 ---
 
 ## Skill Sets
 - **Swift** 기반의 iOS Application 개발
+- App Store에 개인 앱 및 상용 앱 출시 경험
 - **RxSwift**를 이용한 비동기 프로그래밍
 - **TwilioVoice, TwilioVideo**를 이용한 음성통화, 영상통화 기능 개발 경험 
 - **Objective-C**로 작성된 프로젝트를 Swift로 마이그레이션 경험
+
 ---
+
 ## Experience
 
 **에스티유니타스(ST Unitas)** <small>2019.10 ~ 현재 ST Tech Group 모바일실</small>
@@ -39,7 +42,7 @@
 
 <br>
 
-**KWU Multimedia Tech Lab** <small>2015.09 ~ 2016.02 [](http://imsp.kw.ac.kr/) - Research Engineer</small>
+**KWU Multimedia Tech Lab** <small>2015.09 ~ 2016.02 [](http://imsp.kw.ac.kr/) - Engineer</small>
 - [IVCHI](http://imsp.kw.ac.kr/): <small> Interactive Virtual Concert Hall Interface </small>
   - VR Simulator: 가상 콘서트홀에서 악기 위치 및 자리에 따른 음향의 차이를 경험한다. 광운대학교 영상신호처리 연구실에서 졸업작품으로 제작. IEEE 주관의 [ICASSP2016](https://www2.securecms.com/ICASSP2016/ST-3.asp)에 등단
     - [오큘러스 리프트](https://www.oculus.com/rift/)와 [립모션](https://www.leapmotion.com/)을 사용해 악기 위치와 유저의 좌석 위치에 따른 반향감 등의 음향효과 차이 구현
@@ -47,30 +50,13 @@
 
 ---
 
-## Contribute
-
-- [marcosgriselli/SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - **Enable Cycling**(New feature)
-
----
-
-
-## Education
-
-**[KwangWoon Univ.](https://www.kw.ac.kr)** <small>2009.03 ~ 2016.02</small>
-- 전자융합공학과 졸업
-- 경영학 부전공
-
-**[Sungil High School](http://www.sungil.hs.kr/)** <small>2006.03 ~ 2009.02</small>
-- 졸업
-
----
-
 ## Personal Projects
 
-### 스샷그램
+### 스샷그램 [App Store](https://apps.apple.com/us/app/%EC%8A%A4%EC%83%B7%EA%B7%B8%EB%9E%A8/id1499652429?ign-mpt=uo%3D2)
 - 월간 국윤수(Monthly Goodnews Project) 2020.02월호 앱
 - 인스타그램에는 4:5 비율보다 긴 이미지를 업로드하면 이미지가 잘려 노출되지 않는다는 문제점이 있다.
 - 이미지의 비율을 변경하며 기존 내용을 모두 담은 채로 인스타그램에 업데이트 가능하게끔 해주는 iOS 앱
+- https://apps.apple.com/us/app/%EC%8A%A4%EC%83%B7%EA%B7%B8%EB%9E%A8/id1499652429?ign-mpt=uo%3D2
 - https://github.com/krgoodnews/InstagramUploader
 
 ### 마이파이
@@ -101,6 +87,24 @@
 - 날씨를 알려주는 iOS Application
 - 현재날씨에 맞춰 캐릭터가 입고있는 의상과 풍경에 변화를 준다.
 - iOS Developer
+
+---
+
+## Contribute
+
+- [marcosgriselli/SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - **Enable Cycling**(New feature)
+
+---
+
+
+## Education
+
+**[KwangWoon Univ.](https://www.kw.ac.kr)** <small>2009.03 ~ 2016.02</small>
+- 전자융합공학과 졸업
+- 경영학 부전공
+
+**[Sungil High School](http://www.sungil.hs.kr/)** <small>2006.03 ~ 2009.02</small>
+- 졸업
 
 ---
 
