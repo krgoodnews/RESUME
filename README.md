@@ -75,19 +75,6 @@
 - 공개 Podcast API 사용
 - https://github.com/krgoodnews/PodcastsClone
 
-### 채팅퀴즈
-- Socket을 이용해 채팅 어플리케이션을 제작
-- 채팅과 게임이 결합된 형태의 어플리케이션
-- 역할: iOS & Backend
-- 기술
-	* iOS(Swift): RxSwift, SnapKit, Then
-	* Backend: Firebase
-
-### OOT
-- 날씨를 알려주는 iOS Application
-- 현재날씨에 맞춰 캐릭터가 입고있는 의상과 풍경에 변화를 준다.
-- iOS Developer
-
 ---
 
 ## Contribute
