@@ -21,6 +21,7 @@
 ## Experience
 
 **에스티유니타스(ST Unitas)** <small>2019.10 ~ 현재 ST Tech Group 모바일실</small>
+- 커넥츠 글로벌 서비스 개발 (한국 및 미국을 포함한 전세계에 서비스 중)
 - CallKit을 이용한 음성통화 기능 개발 (TwilioVoice 이용)
 - Q&A 홈, 프로필 등 여러 기능 개발
 - RxSwift를 이용한 비동기 프로그래밍
@@ -36,8 +37,7 @@
 <br>
 
 **엑씽크(xSync)** <small>2016.11 ~ 2018.01 개발팀장 / iOS App Engineer</small>
-- Socket을 이용해 주최자와 참여자를 실시간으로 연결하는 iOS 앱 개발
-- Ping을 이용해 시간적 오차를 최대한 줄여 수십~수만대의 기기에서 동시에 동일한 동작을 수행하게 하는 타임싱크 기술 개발
+- Socket.io을 이용해 주최자와 참여자를 실시간으로 연결하는 iOS 앱 개발
 - 기존의 Objective-C로 이뤄진 프로젝트를 Swift로 변환.
 
 <br>
