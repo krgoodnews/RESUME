@@ -11,7 +11,6 @@
 - **Swift** 기반의 iOS Application 개발
 - App Store에 개인 앱 및 상용 앱 출시 경험
 - **RxSwift**를 이용한 비동기 프로그래밍
-- **TwilioVoice, TwilioVideo**를 이용한 음성통화, 영상통화 기능 개발 경험 
 - **Objective-C**로 작성된 프로젝트를 Swift로 마이그레이션 경험
 
 ---
@@ -52,6 +51,7 @@
 - **2020 월간 국윤수 3월호** 앱
 - 인스타그램에는 4:5 비율보다 긴 이미지를 업로드하면 이미지가 잘려 노출되지 않는다는 문제점이 있다.
 - 이미지의 비율을 변경하며 기존 내용을 모두 담은 채로 인스타그램에 업데이트 가능하게끔 해주는 iOS 앱
+- ViewModel Test 코드 작성
 - https://apps.apple.com/us/app/%EC%8A%A4%EC%83%B7%EA%B7%B8%EB%9E%A8/id1499652429?ign-mpt=uo%3D2
 - https://github.com/krgoodnews/InstagramUploader
 
