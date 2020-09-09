@@ -19,7 +19,7 @@
 
 **에스티유니타스(ST Unitas)** <small>2019.10 ~ 재직 중 / iOS Applications Engineer</small>
 - 사내 자체 채팅 SDK 개발중
-  - GRPC를 이용한 네트워크 통신
+  - gRPC를 이용한 네트워크 통신
 
 - **CONECTS(커넥츠)** iOS 앱 개발
   - 미국 등 전 세계에 제공되는 글로벌 서비스
