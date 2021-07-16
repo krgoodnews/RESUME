@@ -1,7 +1,6 @@
 # 국윤수 <small>(Yunsu Guk)</small>
 
 - krgoodnews@gmail.com
-- 010-5528-2253
 - https://yunsu.dev
 - https://github.com/krgoodnews
 
@@ -17,7 +16,12 @@
 
 ## **경력**
 
-**에스티유니타스(ST Unitas)** <small>2019.10 ~ 재직 중 / iOS Applications Engineer</small>
+**매스프레소(Mathpresso)** <small>2020.12 ~ 재직 중 / iOS Engineer</small>
+- 콴다(QANDA) iOS App 개발
+  - 콴다 커뮤니티 기능 개발
+<br>
+
+**에스티유니타스(ST Unitas)** <small>2019.10 ~ 2020.12 / iOS Engineer</small>
 - 사내 자체 채팅 SDK 개발중
   - gRPC를 이용한 네트워크 통신
 
@@ -28,14 +32,14 @@
 
 <br>
 
-**와디즈(Wadiz)** <small>2018.10 ~ 2019.10 / iOS Applications Engineer</small>
+**와디즈(Wadiz)** <small>2018.10 ~ 2019.10 / iOS Engineer</small>
 - 와디즈 iOS 앱 개발
   - https://apps.apple.com/kr/app/%EC%99%80%EB%94%94%EC%A6%88/id1107828621
   - 하이브리드 앱으로 작성되어있던 부분을 네이티브 앱으로 개발
 
 <br>
 
-**엑씽크(xSync)** <small>2016.11 ~ 2018.01 / iOS Applications Engineer</small>
+**엑씽크(xSync)** <small>2016.11 ~ 2018.01 / iOS Engineer</small>
 - 엑씽크 iOS 앱 개발
   - Socket.io을 이용해 주최자와 참여자를 실시간으로 연결함
   - 기존의 Objective-C로 이뤄진 프로젝트를 Swift로 변환
