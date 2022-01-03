@@ -41,10 +41,10 @@
 
 <br>
 
-**KWU Multimedia Tech Lab** <small>2015.09 ~ 2016.02 - Software Engineer</small>
+**KWU Multimedia Tech Lab** <small>2015.09 ~ 2016.02 / Software Engineer</small>
 - IVCHI: <small> Interactive Virtual Concert Hall Interface </small>
   - 가상 콘서트홀에서 악기 위치 및 자리에 따른 음향의 차이를 경험 할 수 있는 VR Simulator
-  - 광운대학교 영상신호처리 연구실에서 졸업작품으로 제작. 
+  - 광운대학교 영상신호처리 연구실에서 졸업작품 제작 및 논문 작성. 
   - IEEE 주관의 [ICASSP2016](https://www2.securecms.com/ICASSP2016/ST-3.asp)에 등단
   - 오큘러스 리프트와 립모션을 사용해 악기 위치와 유저의 좌석 위치에 따른 반향감 등의 음향효과 차이를 Unity(C#)으로 구현
 
@@ -57,11 +57,15 @@
 - 원하는 이미지에 원하는 명언을 정해 이미지로 저장할 수 있게 하는 App.
 - Mac Catalyst 지원
 
+<br>
+
 ### 대충시계
 - App Store: https://apps.apple.com/kr/app/대충시계-한글에-시간을-녹이다/id1534435771
 - 한글 시계 위젯 앱
 - Mac Catalyst 지원
 - Widget 지원
+
+<br>
 
 ### 스샷그램
 - App Store: https://apps.apple.com/us/app/%EC%8A%A4%EC%83%B7%EA%B7%B8%EB%9E%A8/id1499652429?ign-mpt=uo%3D2
@@ -70,12 +74,14 @@
 - 이미지의 비율을 변경하며 기존 내용을 모두 담은 채로 인스타그램에 업데이트 가능하게끔 해주는 iOS 앱
 - ViewModel Test 코드 작성
 
+<br>
+
 ### 마이파이
 - https://github.com/krgoodnews/NetworkChecker
 - 연결된 네트워크 이름을 스테이터스바에 노출해주는 **Mac OS** 앱
 
 ---
-<!-- <div class="page"/> break page  -->
+<div class="page"/>
 
 ## **Contribute**
 - [marcosgriselli/SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - **Enable Cycling**(New feature)
@@ -83,7 +89,7 @@
 
 ## **Activities**
 
-### 부스트캠프 iOS 코드 리뷰어 <small>2020.08 ~</small>
+### 부스트캠프 iOS 코드 리뷰어 <small>2020.08 ~ 2020.10</small>
 - 네이버 커넥트재단이 운영하는 부스트캠프 2020 iOS 코드 리뷰어
 
 ### 디프만 <small>(디자이너와 프로그래머가 만났을 때)</small>
