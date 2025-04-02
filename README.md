@@ -25,7 +25,7 @@
   - AdMob, AdFit, Teads 등의 네트워크 광고를 통합 관리하는 광고 시스템 설계 및 개발
 - **카메라 플러스 기능 개발** (2024.03 ~ 2024.05)
   - CoreML 기반 멀티 문제 인식 및 자동 크롭 기능
-  - 프로젝트 설명: https://github.com/krgoodnews/RESUME/edit/master/Projects/multi_crop/README.md
+  - 프로젝트 설명: https://github.com/krgoodnews/RESUME/edit/master/Projects/multi_crop
 - **QANDA 지식 커뮤니티 개발 및 고도화** (2020.12~)
   - 피드 기반 SNS 기능 구현
 - **QDSKit 디자인 시스템 SDK 개발**
