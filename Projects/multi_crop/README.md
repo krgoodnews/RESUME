@@ -1,10 +1,16 @@
 # 콴다 – 멀티 크롭(Multi-Crop) + CoreML 자동 인식 기능 개발
 
-### 동영상 첨부
-
-- [멀티 크롭 기능 시연 동영상](video_multi_crop.MP4)
-
 사용자가 문제 이미지를 업로드할 때, 여러 문제 영역을 동시에 선택하고 자동으로 인식할 수 있는 멀티 크롭 기능을 설계하고 구현했습니다. 기존의 단일 문제 크롭 UX를 개선해 문제 등록 속도와 정확도를 크게 향상시켰습니다.
+
+## 동작 영상 및 스크린샷
+
+
+https://github.com/user-attachments/assets/9390de5f-f39e-474f-a31c-3ec45f94107f
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/3d0d9832-9938-49af-b0e1-1bbbba1c9b09" width="300">
+</p>
 
 ### CoreML 모델을 활용한 문제 영역 자동 탐지
 
